@@ -10,6 +10,10 @@
 	.section-main {
 		justify-content: space-between;
 	}
+
+	.member__position {
+		margin-left: 6px;
+	}
 }
 
 @media only screen and (max-width: 880px) {
